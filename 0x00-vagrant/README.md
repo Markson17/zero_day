@@ -1,1 +1,1 @@
-0-hello_ubuntu contains Linux
+This is a public repository.
